@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(to right, #15619e, #68b022);
+}
+
+nav.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+nav > * {
+  margin-right: 2rem;
+}
+nav * {
+  color: white;
+}
+
+.card-title a {
+  color: #15619e;
+}
+
+.btn.btn-primary {
+  background-color: #68B022;
+  border: none;
+  box-shadow: 5px 5px 5px #438ac4ac;
+}
+
+.btn.btn-primary:hover {
+  background-color: #619a27;
+  transform: scale(1.01);
+}
+
+.navbar {
+  background-color: #619a27;
+}
+
+.nav-item {
+  background-color: white;
+}
