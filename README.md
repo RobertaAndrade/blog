@@ -1,24 +1,21 @@
-# README
+# Ruby version
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* ruby-3.2.2
 
-Things you may want to cover:
+# This code allows
 
-* Ruby version
 
-* System dependencies
+* view posts published by all users sorted by date
 
-* Configuration
+* pagination
 
-* Database creation
+* registered comments
 
-* Database initialization
+* anonymous comments
 
-* How to run the test suite
+* login and registration
 
-* Services (job queues, cache servers, search engines, etc.)
+* password recovery
 
-* Deployment instructions
 
-* ...
+
